@@ -33,12 +33,16 @@ you learned in CIS 500 and what you can do with Python.
 * The project can be related to projects in your other courses, but there need to be a significant component of the CIS 500 project that is not a requirement for another course.
 * You need to have automated tests (either unit tests, or end-to-end tests).
 * Use the GitHub classroom link above to create the repository for your project. (You need to use a GitHub classroom repository so I can easily view and grade the projects.  You are welcome to move your code at the end of the semester.)
+* You are welcome to include _some_ code from sources like StackOverflow, blogs, tutorials, etc.; but:
+  1. You must site any sources you use.  (For the most part, this means adding a comment above the code with a link to the source.)
+  2. Your grade will be determined only by the code _you_ write.  (So, if a high percentage of your project is code you obtained online, your grade won't be very high.)
 
 ## Rubric
 
 To meet expectations, your project must
 * Run correctly without errors
 * Be sufficiently complex to serve as a semester project (i.e., it can't be too easy)
+  * Remember, this means that the code _you_ write much be sufficiently complex. Libraries and other code you obtain from other sources doesn't count toward the complexity of your project.)
 * Be written cleanly (using good design, good variable names, etc.)
 
 
