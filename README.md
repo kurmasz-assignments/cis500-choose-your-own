@@ -2,6 +2,8 @@
 
 GitHub Classroom link:  (https://classroom.github.com/a/VtD1SbI1)
 
+Due:  Tuesday 5 December at 11:59 p.m.
+
 Your assignment for Project 4 is to 
 1. Do something cool
 2. Show me what you've learned in CIS 500
